@@ -6,6 +6,7 @@ end
 def actor
 	actor = {}
 	actor[:name]="Dwayne The Rock Johnson"
+	return actor
 end
 
 def monopoly
