@@ -4,7 +4,8 @@ def new_hash
 end
 
 def actor
-
+	actor = {}
+	actor[]
 end
 
 def monopoly
